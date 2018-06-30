@@ -1,0 +1,14 @@
+{
+  "name": "bot-louis",
+  "version": "1.0.0",
+  "description": "Un bot Fun qui fait de la musique ! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "!"
+  },
+  "author": "MYLINEXD",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
