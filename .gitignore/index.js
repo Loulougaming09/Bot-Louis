@@ -20,6 +20,5 @@ bot.on('message', message => {
         message.reply("Bien le bonjour :)");
         console.log("Commande Salut effectuée");
     }
-    
 }})
 
