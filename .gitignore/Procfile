@@ -1,1 +1,1 @@
-worker : none index
+worker : none index.js
